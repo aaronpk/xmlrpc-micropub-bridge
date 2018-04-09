@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpxmlrpc/phpxmlrpc": "^4.3",
+        "indieauth/client": "^0.4.1"
+    },
+    "autoload": {
+      "files": [
+        "lib/config.php"
+      ]
+    }
+}
